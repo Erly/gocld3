@@ -1,1 +1,1 @@
-module gocld3
+module github.com/Erly/gocld3
